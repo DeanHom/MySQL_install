@@ -4,7 +4,7 @@ MySQL安装过程（zip格式文件）
 
 2、解压到本地
 
-3、在解压后的文件夹中新建mysql.ini文件，内容见mysql.ini
+3、在解压后的文件夹中新建mysql.ini文件，内容见[mysql.ini](mysql.ini)
 
 4、把解压后的bin路径配置到环境变量
 
