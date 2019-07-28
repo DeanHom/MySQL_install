@@ -21,3 +21,5 @@ MySQL安装过程（zip格式文件）
 10、连接数据库，输入命令：mysql -u root -p
 
 11、设置密码，输入命令：set password = password("root")
+
+注意：此种安装方式不带图形化界面，须自行下载安装，如官方自带的MySQL workbench
